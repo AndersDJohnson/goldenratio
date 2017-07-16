@@ -1,0 +1,9 @@
+{
+  "name": "goldenratio",
+  "version": "1.0.0",
+  "description": "Golden ratio constant.",
+  "main": "index.js",
+  "repository": "AndersDJohnson/goldenratio",
+  "author": "Anders D. Johnson",
+  "license": "MIT"
+}
