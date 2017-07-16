@@ -7,3 +7,9 @@
 ```
 npm install --save goldenratio
 ```
+
+```js
+import goldenRatio from 'goldenratio'
+
+console.assert('1.618' === goldenRatio.toFixed(3))
+```
